@@ -1,0 +1,23 @@
+{
+  "name": "glantern-utils",
+  "version": "0.1.0",
+  "description": "Utility classes for GLantern.",
+  "main": "",
+  "scripts": {
+    "test": "echo No test is available. && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hozuki/glantern-utils.git"
+  },
+  "keywords": [
+  ],
+  "author": "George Wu <uiharu@buaa.edu.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hozuki/glantern-utils/issues"
+  },
+  "homepage": "https://github.com/Hozuki/glantern-utils#readme",
+  "dependencies": {
+  }
+}
